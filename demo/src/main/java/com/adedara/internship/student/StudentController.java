@@ -1,7 +1,5 @@
-package com.example.demo.student;
+package com.adedara.internship.student;
 
-import com.example.demo.student.Student;
-import com.example.demo.student.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

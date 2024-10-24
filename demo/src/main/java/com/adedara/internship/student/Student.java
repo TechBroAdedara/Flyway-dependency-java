@@ -1,4 +1,4 @@
-package com.example.demo.student;
+package com.adedara.internship.student;
 
 import jakarta.persistence.*;
 import java.time.LocalDateTime;
